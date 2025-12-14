@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GenealogyRisk - Family History Analyzer",
+  "description": "A secure, privacy-focused tool for analyzing family medical history using synthetic data processing. Designed for decision support only.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
